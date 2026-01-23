@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Local datasets (DO NOT COMMIT)
+Malaria_cell_images/
+*cell_images*
+
+# Model artifacts (optional)
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
